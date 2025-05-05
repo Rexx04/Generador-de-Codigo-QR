@@ -29,3 +29,17 @@ Este proyecto es una aplicación web que permite generar códigos QR personaliza
    ```
 2. **Abril el proyecto:**
 - Abre el archivo `index.html` en tu navegador web.
+
+3. **Generar un código QR:**
+- Ingresa el texto que deseas codificar.
+- Personaliza las opciones según tus necesidades.
+- Haz clic en el botón **"Generar QR"**.
+- Si deseas descargar el código QR, haz clic en el botón **"Descargar QR"**.
+
+## Estructura del proyecto
+```bash
+Generador-de-Codigo-QR/
+├── [index.html](http://_vscodecontentref_/0)       # Archivo principal de la interfaz
+├── [script.js](http://_vscodecontentref_/1)        # Lógica para la generación de códigos QR
+├── [uraccan_logo.png](http://_vscodecontentref_/2) # Logo utilizado en la interfaz
+```
