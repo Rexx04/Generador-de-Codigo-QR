@@ -43,3 +43,15 @@ Generador-de-Codigo-QR/
 ├── [script.js](http://_vscodecontentref_/1)        # Lógica para la generación de códigos QR
 ├── [uraccan_logo.png](http://_vscodecontentref_/2) # Logo utilizado en la interfaz
 ```
+
+## Capturas de pantalla
+Interfaz principal
+![Interfaz principal](capturas/cap1.png)
+
+Código QR generado
+![Código QR generado](capturas/cap2.png)
+
+## Créditos
+- **Autor:** Yeltsin Reyes
+- **Año:** 2025
+- **Licencia**: Todos los derechos reservados.
